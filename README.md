@@ -22,8 +22,7 @@ TimeSound-前端源码, 前端源码分两部分（vue, node）
 
 #### 源码使用说明
 Gitee [码云](https://gitee.com/reviee_admin/time-music-desktop-version) <br>
-GitHub：[github](https://github.com/AALEI/TimeSound_desktop) <br>
-
+GitHub：[云盘页面](https://github.com/AALEI/TimeSound_desktop) <br>
 检查node版本及其他依赖对应版本, 并将 vue 代码置于 frontend/ 文件夹下，安装好(node, vue)所需依赖
 
 node:
@@ -77,8 +76,8 @@ npm run commit
 
 
 #### 默认数据存储路径
-- Windows：`%APPDATA%/lx-music-desktop`
-- macOS：`~/Library/Application Support/lx-music-desktop`
+- Windows：`%APPDATA%/sy-music-desktop`
+- macOS：`~/Library/Application Support/sy-music-desktop`
 
 
 ### 项目协议
@@ -97,5 +96,7 @@ npm run commit
 若你使用了本项目，将代表你接受以上协议。
 
 音乐平台不易，请尊重版权，支持正版。<br>
+
+特别感谢：落雪，哆啦好梦，流音 等优秀开源作者！<br>
 
 若对此有疑问请 mail to: 1533936667+qq.com (请将`+`替换成`@`)
