@@ -22,7 +22,8 @@ TimeSound-前端源码, 前端源码分两部分（vue, node）
 
 #### 源码使用说明
 Gitee [码云](https://gitee.com/reviee_admin/time-music-desktop-version) <br>
-GitHub：[云盘页面](https://github.com/AALEI/TimeSound_desktop) <br>
+GitHub：[github](https://github.com/AALEI/TimeSound_desktop) <br>
+
 检查node版本及其他依赖对应版本, 并将 vue 代码置于 frontend/ 文件夹下，安装好(node, vue)所需依赖
 
 node:
