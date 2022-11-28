@@ -18,7 +18,12 @@ TimeSound-前端源码, 前端源码分两部分（vue, node）
 
 #### 软件下载：
 软件历史版本请查看：[更新日志](https://github.com/AALEI/TimeSound_desktop/blob/main/CHANGELOG.md)<br>
-软件下载请转到(mac, win)：[云盘页面](https://www.aliyundrive.com/s/3mLaHpHn4W1) [分享码] `5b8p` <br>
+软件下载：<br>
+mac版[点击访问](https://cowtransfer.com/s/aedde8e76ba144) [或者] `访问 cowtransfer.com 输入传输口令 h6ngyn 查看` <br>
+mac-m1版[点击访问](https://cowtransfer.com/s/0a796e749dc041) [或者] `访问 cowtransfer.com 输入传输口令 tsti8l 查看` <br>
+win-32版[点击访问](https://cowtransfer.com/s/19c6c86b338c49) [或者] `访问 cowtransfer.com 输入传输口令 jmukoe 查看` <br>
+win-64版[点击访问](https://cowtransfer.com/s/47aa98629dae4d) [或者] `访问 cowtransfer.com 输入传输口令 jfuawj 查看` <br>
+全版本文件[点击访问](https://cowtransfer.com/s/fb80064e811c47) [或者] `访问 cowtransfer.com 输入传输口令 rkomzb 查看` <br>
 
 #### 源码使用说明
 Gitee [码云](https://gitee.com/reviee_admin/time-music-desktop-version) <br>
